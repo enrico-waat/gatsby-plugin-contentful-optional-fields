@@ -1,0 +1,41 @@
+{
+  "_args": [
+    [
+      "gatsby-plugin-contentful-optional-fields@2.2.0",
+      "C:\\Users\\Tim Ziegel\\Documents\\Work\\Code\\tms-publicsite-gatsby\\ui"
+    ]
+  ],
+  "_from": "gatsby-plugin-contentful-optional-fields@2.2.0",
+  "_id": "gatsby-plugin-contentful-optional-fields@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-LCZbLZkeLDAnY3jupDrDsSyWMmouZHWZcVgMMy6DoL74gahchIB1iziTiUArTgqv6FmlkDBRSYq87OqQBE0QeA==",
+  "_location": "/gatsby-plugin-contentful-optional-fields",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "gatsby-plugin-contentful-optional-fields@2.2.0",
+    "name": "gatsby-plugin-contentful-optional-fields",
+    "escapedName": "gatsby-plugin-contentful-optional-fields",
+    "rawSpec": "2.2.0",
+    "saveSpec": null,
+    "fetchSpec": "2.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gatsby-plugin-contentful-optional-fields/-/gatsby-plugin-contentful-optional-fields-2.2.0.tgz",
+  "_spec": "2.2.0",
+  "_where": "C:\\Users\\Tim Ziegel\\Documents\\Work\\Code\\tms-publicsite-gatsby\\ui",
+  "author": {
+    "name": "tziegel@thrillworks.com"
+  },
+  "description": "A plugin to define optional contentful fields and resolve them to NULL if they're not set.",
+  "license": "ISC",
+  "main": "gatsby-node.js",
+  "name": "gatsby-plugin-contentful-optional-fields",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.2.2"
+}
